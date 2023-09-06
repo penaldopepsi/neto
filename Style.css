@@ -1,1 +1,51 @@
-bunda
+body{
+  background: #CCCCCC;
+  ]
+. principal{
+  background: #b8b6b6;
+  padding: 10px;
+}
+  p{
+    text-aling: cente;
+  }
+  em strong{
+    color: #FF0000;
+  }
+  h1 {
+    text-aling: center;
+  }
+  p {
+    font-size: 20px;
+  }
+  #missao {
+    font-size: 30px
+  }
+  #banner {
+    width: 100%;
+  }
+  .itens { 
+  font-style: italic;
+    font-size: 20px;
+  }
+  .beneficios {
+    background: #ccbaba;
+padding: 20px;
+  }
+  h2 { 
+  text-aling: center;
+  }
+  u1 { 
+  display: inline-block;
+    vertical-alin: top;
+    width: 20%;
+    margin-right: 15%;
+  }
+  .imagembeneficios {
+    width: 50%;
+  }
+  .titulo-principal {
+    padding-left: 20px;
+  }
+.titulo-centralizado {
+  text-aline: center
+}
